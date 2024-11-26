@@ -1,31 +1,40 @@
-Phishing Website Detection Tool
-Project Overview
-This project focuses on creating a Phishing Website Detection Tool to analyze and identify phishing websites. The tool aims to assist users in avoiding phishing attacks by detecting malicious sites and providing valuable insights into their behavior. By leveraging this tool, users can enhance their online safety and protect themselves from potential threats.
+# Phishing Website Detection Tool
 
-Objectives
-Detect phishing websites: Utilize algorithms and techniques to identify characteristics of phishing websites.
-Analyze website behavior: Extract and examine features that indicate potential phishing attempts.
-Improve user safety: Help users avoid phishing attacks by providing accurate warnings and detailed insights.
-Collaborators
-This project is a collaborative effort among the following group members:
+## Project Overview
+The **Phishing Website Detection Tool** is designed to identify and analyze phishing websites, helping users avoid online threats and enhancing cybersecurity awareness. By leveraging this tool, users can receive timely warnings and insights about malicious websites, empowering them to stay safe online.
 
-Name	ID
-Bikila Tariku	UGR/8089/14
-Biruk Amanuel	UGR/7065/14
-Daniel Asrat	UGR/4100/14
-Obsu Kebede	UGR/7425/14
-Feven Lendu	UGR/1779/13
-Amanuel Tsehay	UGR/6705/14
-Features of the Tool
-Real-time detection: Instantly analyzes websites to flag phishing attempts.
-User-friendly interface: Simple and intuitive for both technical and non-technical users.
-Comprehensive reporting: Offers detailed insights into why a website is classified as phishing.
-Customizable thresholds: Allows users to adjust sensitivity for detection as needed.
-Technology Stack
-Programming Language: [Specify the language, e.g., Python, JavaScript]
-Frameworks/Libraries: [Mention libraries or frameworks being used]
-Database (if applicable): [Specify database details]
-Deployment: [Specify hosting or deployment platforms, if applicable]
-Acknowledgments
-We are grateful for the opportunity to collaborate on this meaningful project, combining our efforts to enhance online safety and cybersecurity awareness.
+## Objectives
+- **Detect Phishing Websites:** Identify websites exhibiting phishing characteristics.
+- **Behavioral Analysis:** Analyze web content and behavior to flag malicious activities.
+- **Enhance User Safety:** Provide warnings and detailed reports to help users avoid phishing attacks.
 
+## Features
+- **Real-Time Detection:** Quickly analyzes websites to detect phishing attempts.
+- **User-Friendly Interface:** Easy-to-use design suitable for both technical and non-technical users.
+- **Comprehensive Reporting:** Offers detailed explanations for flagged websites.
+- **Customizable Detection Levels:** Allows users to adjust sensitivity based on their needs.
+
+## Technology Stack
+- **Programming Language:** Python (or other as specified)
+- **Frameworks and Libraries:** [List frameworks/libraries used, e.g., Scikit-learn, Flask, TensorFlow]
+- **Database (if applicable):** [Specify database, e.g., SQLite, MongoDB]
+- **Deployment Platform:** [Specify hosting platform, e.g., AWS, Azure]
+
+## Team Members
+This project is a collaborative effort among the following contributors:
+
+| **Name**           | **ID**        |
+|--------------------|---------------|
+| Bikila Tariku      | UGR/8089/14   |
+| Biruk Amanuel      | UGR/7065/14   |
+| Daniel Asrat       | UGR/4100/14   |
+| Obsu Kebede        | UGR/7425/14   |
+| Feven Lendu        | UGR/1779/13   |
+| Amanuel Tsehay     | UGR/6705/14   |
+
+## Acknowledgments
+We would like to express our gratitude for the opportunity to work on this project as a team. By combining our skills and efforts, we aim to make a meaningful contribution to the field of cybersecurity and online safety.
+
+---
+
+Feel free to modify this file as the project progresses.
