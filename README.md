@@ -37,4 +37,3 @@ We would like to express our gratitude for the opportunity to work on this proje
 
 ---
 
-Feel free to modify this file as the project progresses.
