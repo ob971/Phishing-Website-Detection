@@ -8,6 +8,7 @@ The **Phishing Website Detection Tool** is designed to identify and analyze phis
 - **Behavioral Analysis:** Analyze web content and behavior to flag malicious activities.
 - **Enhance User Safety:** Provide warnings and detailed reports to help users avoid phishing attacks.
 
+  
 ## Features
 - **Real-Time Detection:** Quickly analyzes websites to detect phishing attempts.
 - **User-Friendly Interface:** Easy-to-use design suitable for both technical and non-technical users.
