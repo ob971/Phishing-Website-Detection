@@ -36,7 +36,7 @@ This project is a collaborative effort among the following contributors:
 | Amanuel Tsehay     | UGR/6705/14   |
 
 ## Acknowledgments
-We are grateful for the opportunity to work on this project as a team. By combining our skills and efforts, we aim to make a meaningful contribution to the field of cybersecurity and online safety.
+We are grateful for the opportunity to work on this project as a team.  By combining our skills and efforts, we aim to make a meaningful contribution to the field of cybersecurity and online safety.
 
 ---
 
